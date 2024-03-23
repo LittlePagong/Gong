@@ -1,0 +1,98 @@
+24-3-0015
+Venadas, Michael Angelo
+22
+09/07/2001
+System Analyst
+9163310808
+22500.00
+23-12-0014
+Abella, Michael Caim
+28
+11/28/1995
+Security Engr
+9786673892
+55000.00
+23-12-0013
+Veremoza, Tommy Mike
+58
+04/22/1965
+Network Engr
+9879978672
+22000.00
+23-12-0012
+Moldin, Janin Michelle
+21
+08/18/2002
+Computer Engr
+9786673823
+19000.00
+23-12-0011
+Geonzon, Lebron James
+22
+05/16/2001
+Computer Engr
+9653389092
+19000.00
+23-12-0009
+Urlitto, Mark Angelo
+43
+12/05/1980
+Software Engr
+9786637892
+15000.00
+23-12-0008
+Gomeza, Carlo Johnson
+45
+06/24/1978
+Network Engr
+9678836782
+25000.00
+23-12-0007
+Alberto, Paulo Lopina
+25
+06/23/1998
+Software Engr
+9786673892
+15000.00
+23-12-0006
+Pacino, Tony Montana
+33
+11/18/1990
+Teacher IV
+9783367872
+32000.00
+23-12-0005
+Marlito, Paul Monteza
+22
+09/23/2001
+Software Engr
+9786673823
+15000.00
+23-12-0004
+Alberto, Alburro Perez
+38
+04/20/1995
+System Analyst
+9678867482
+17000.00
+23-12-0003
+Burgos, Rolie Abella
+33
+09/16/1990
+Teacher III
+9786673862
+27000.00
+23-12-0002
+Venadas, Rafael Paul
+73
+01/20/1950
+Corp Lawyer
+9167786783
+45000.00
+23-12-0001
+Altejar, Angel Phebles
+26
+06/06/1996
+Interior Design
+9678867539
+19494.00
